@@ -5,6 +5,8 @@ First Note: For testing my application, you can use any IDE (Integrated Developm
 
 Programming Language: Python
 
+Application Type: Desktop App
+
 
 How to set up?
 
