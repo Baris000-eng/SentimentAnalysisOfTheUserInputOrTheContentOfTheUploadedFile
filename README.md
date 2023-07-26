@@ -5,14 +5,14 @@ First Note: For testing my application, you can use any IDE (Integrated Developm
 
 How to set up?
 
-0-) Firstly, fork the project from my Github repository to your Github repository. After that, you can clone the project to your local machine by using the following command:
+1-) Firstly, fork the project from my Github repository to your Github repository. After that, you can clone the project to your local machine by using the following command:
 
-git clone 
+git clone https://github.com/Baris000-eng/SentimentAnalysisOfTheUserInputOrTheContentOfTheUploadedFile
 
-1-) You should go to the directory of the project with "cd" command.
+2-) You should go to the directory of the project with "cd" command.
 e.g. cd path/to/project
 
-2-) Then, you should run one of the following commands from the terminal.
+3-) Then, you should run one of the following commands from the terminal.
 
 - python sentimentAnalysisOfUserInputOrUploadedFile.py
 - python3 sentimentAnalysisOfUserInputOrUploadedFile.py
@@ -23,7 +23,7 @@ Note 2: At the second step, you can run the python file also by right clicking o
 (e.g. sentimentAnalysisOfUserInputOrUploadedFile.py) and then pressing the option called 
 "Run sentimentAnalysisOfUserInputOrUploadedFile.py".
 
-3-) Now, you can obtain sentiment analysis of the inputted text in one of the following ways: 
+4-) Now, you can obtain sentiment analysis of the inputted text in one of the following ways: 
   * Input any text you want to the text area, press the "Analyze Text" button, and then examine the compound, positive, negative,      and neutral scores.
   * Press the "Upload File" button, pick any txt file you want from your computer, press the "Analyze Text" button, and then examine   the compound, positive, negative, neutral scores.
 
