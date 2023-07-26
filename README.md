@@ -20,7 +20,7 @@ e.g. cd path/to/project
 - python sentimentAnalysisOfUserInputOrUploadedFile.py
 - python3 sentimentAnalysisOfUserInputOrUploadedFile.py
 
-Note 1: Only if your python version in your computer is python 3.x, then you can run the second command. The first command directly considers the default python configuration in your computer regardless of what version you already installed.
+Note 1: Only if your python version in your computer is python 3.x, then you can run the second command. The first command directly considers the default python configuration in your computer regardless of which python version you already installed to your computer.
 
 Note 2: At the second step, you can run the python file also by right clicking on the name of the python file 
 (e.g. sentimentAnalysisOfUserInputOrUploadedFile.py) and then pressing the option called 
