@@ -5,7 +5,11 @@ First Note: For testing my application, you can use any IDE (Integrated Developm
 
 How to set up?
 
-1-) You should first go to the directory of the project with "cd" command.
+0-) Firstly, fork the project from my Github repository to your Github repository. After that, you can clone the project to your local machine by using the following command:
+
+git clone 
+
+1-) You should go to the directory of the project with "cd" command.
 e.g. cd path/to/project
 
 2-) Then, you should run one of the following commands from the terminal.
