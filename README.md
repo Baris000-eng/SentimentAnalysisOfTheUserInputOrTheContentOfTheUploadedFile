@@ -5,6 +5,7 @@ First Note: For testing my application, you can use any IDE (Integrated Developm
 
 Programming Language: Python
 
+
 How to set up?
 
 1-) Firstly, fork the project from my Github repository to your Github repository. After that, you can clone the project to your local machine by using the following command:
