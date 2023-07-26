@@ -23,3 +23,6 @@ Note 2: At the second step, you can run the python file also by right clicking o
   * Input any text you want to the text area, press the "Analyze Text" button, and then examine the compound, positive, negative,      and neutral scores.
   * Press the "Upload File" button, pick any txt file you want from your computer, press the "Analyze Text" button, and then examine   the compound, positive, negative, neutral scores.
 
+
+Important Note: For providing the sentiment analysis, the VADER library is utilized. VADER is an open-source and rule-based NLP tool which is used for the sentiment analysis.
+
