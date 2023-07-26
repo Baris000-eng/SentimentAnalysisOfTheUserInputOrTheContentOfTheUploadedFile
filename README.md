@@ -3,6 +3,8 @@ This project provides a sentiment analysis of the user input or the content of t
 
 First Note: For testing my application, you can use any IDE (Integrated Development Environment) you want. However, PyCharm is recommended.
 
+Programming Language: Python
+
 How to set up?
 
 1-) Firstly, fork the project from my Github repository to your Github repository. After that, you can clone the project to your local machine by using the following command:
